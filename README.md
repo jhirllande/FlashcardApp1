@@ -5,7 +5,7 @@
 
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="[YOUR_GIF_URL_HERE](https://github.com/jhirllande/FlashcardApp1/blob/main/WhatsApp%20Video%202024-04-09%20at%201.59.20%20PM.gif)" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
